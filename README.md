@@ -1,6 +1,50 @@
 ## Meta Learning 
 
-### 1 Legacy Papers
+### Meta Reinforcement Learning
+
+#### Section 1
+- [x] **[1]** Y. Duan, J. Schulman, X. Chen, P. Bartlett, I. Sutskever, and P. Abbeel. **Rl2: Fast reinforcement learning via slow reinforcement learning**. Technical report, UC Berkeley and OpenAI, 2016.
+
+- [x] **[2]** Wang J X, Kurth-Nelson Z, Tirumala D, et al. **Learning to reinforcement learn**. arXiv preprint arXiv:1611.05763, 2016.
+
+- [x] **[3]** Finn, C., Abbeel, P., & Levine, S.. **Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**. arXiv preprint arXiv:1703.03400. (2017)
+
+- [x] **[4]** Tristan Deleu, Yoshua Bengio. **The effects of negative adaptation in Model-Agnostic Meta-Learning**. arXiv preprint arXiv:1812.02159. (2018)
+
+- [ ] **[5]** Xu, Zhongwen, Hado van Hasselt, and David Silver. **Meta-Gradient Reinforcement Learning** arXiv preprint arXiv:1805.09801 (2018).
+
+- [x] **[6]** Alex Nichol, Joshua Achiam, John SchulmanAlex Nichol, Joshua Achiam, John Schulman. **On First Order Meta-Learning Algorithms** arXiv preprint arXiv:1803.02999 (2018).
+
+- [x] **[7]** Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel. **A Simple Neural Attentive Learner** arXiv preprint at arXiv:1707.03141 (2018)
+
+- [ ] **[8]** Finn, Chelsea, Kelvin Xu, and Sergey Levine. **Probabilistic Model-Agnostic Meta-Learning** arXiv preprint arXiv:1806.02817 (2018).
+
+- [ ] **[9]** Kim, Taesup, Jaesik Yoon, Ousmane Dia, Sungwoong Kim, Yoshua Bengio, and Sungjin Ahn. **Bayesian Model-Agnostic Meta-Learning** arXiv preprint arXiv:1806.03836 (2018).
+
+- [ ] **[10]** Houthooft, Rein, Richard Y. Chen, Phillip Isola, Bradly C. Stadie, Filip Wolski, Jonathan Ho, and Pieter Abbeel. **Evolved policy gradients** arXiv preprint arXiv:1802.04821 (2018).
+
+#### Section 2
+- [ ] **[1]** Marcin Andrychowicz, Filip Wolski, Alex Ray, Jonas Schneider, Rachel Fong, Peter Welinder, Bob McGrew, Josh Tobin, Pieter Abbeel, Wojciech Zaremba. **Hindsight Experience Replay**. arXiv preprint arXiv:1707.01495, 2017.
+
+- [x] **[2]** Frans K, Ho J, Chen X, et al. **Meta Learning Shared Hierarchies**. arXiv preprint arXiv:1710.09767 (2017)
+
+- [ ] **[3]** Anusha Nagabandi, Ignasi Clavera, Simin Liu, Ronald S. Fearing, Pieter Abbeel, Sergey Levine, Chelsea Finn. **Learning to Adapt in Dynamic, Real-World Environments Through Meta-Reinforcement Learning** arXiv preprint arXiv:1803.11347 (2018).
+
+- [ ] **[4]** Clavera, Ignasi, Anusha Nagabandi, Ronald S. Fearing, Pieter Abbeel, Sergey Levine, and Chelsea Finn. **Learning to Adapt: Meta-Learning for Model-Based Control** arXiv preprint arXiv:1803.11347 (2018).
+
+- [ ] **[5]** Gupta, Abhishek, Benjamin Eysenbach, Chelsea Finn, and Sergey Levine. **Unsupervised Meta-Learning for Reinforcement Learning** arXiv preprint arXiv:1806.04640 (2018).
+
+- [ ] **[6]** Benjamin Eysenbach, Abhishek Gupta, Julian Ibarz, Sergey Levine. **Diversity is All You Need: Learning Skills without a Reward Function** arXiv preprint arXiv:1802.06070 (2018).
+
+#### Section 3
+
+- [x] **[1]** Gupta, Abhishek, Russell Mendonca, YuXuan Liu, Pieter Abbeel, and Sergey Levine. **Meta-Reinforcement Learning of Structured Exploration Strategies** arXiv preprint arXiv:1802.07245 (2018).
+
+- [x] **[2]** Xu, Tianbing, Qiang Liu, Liang Zhao, Wei Xu, and Jian Peng. **Learning to Explore with Meta-Policy Gradient** arXiv preprint arXiv:1803.05044 (2018).
+
+- [x] **[3]** Stadie, Bradly C., Ge Yang, Rein Houthooft, Xi Chen, Yan Duan, Yuhuai Wu, Pieter Abbeel, and Ilya Sutskever. **Some considerations on learning to explore via meta-reinforcement learning** arXiv preprint arXiv:1803.01118 (2018).
+
+### Legacy Papers
 
 - [ ] **[1]** Nicolas Schweighofer and Kenji Doya. **Meta-learning in reinforcement learning**. Neural Networks, 16(1):5–9, 2003.
 
@@ -49,7 +93,7 @@ Neural Computation, 4(1):131–139, 1992.
 
 - [ ] **[21]** Thrun, Sebastian and Pratt, Lorien. **Learning to learn**. Springer Science & Business Media, 1998.
 
-## 2 Recent Papers
+## Recent Papers
 
 - [ ] **[1]** Andrychowicz, Marcin, Denil, Misha, Gomez, Sergio, Hoffman, Matthew W, Pfau, David, Schaul, Tom, and de Freitas, Nando. **Learning to learn by gradient descent by gradient descent**. In Advances in Neural Information Processing Systems, pp. 3981–3989, 2016
 
@@ -71,8 +115,6 @@ Neural Computation, 4(1):131–139, 1992.
 
 - [ ] **[10]** B. Zoph and Q. V. Le. **Neural architecture search with reinforcement learning**. Technical report, submitted to ICLR 2017, 2016.
 
-- [ ] **[11]** Y. Duan, J. Schulman, X. Chen, P. Bartlett, I. Sutskever, and P. Abbeel. **Rl2: Fast reinforcement learning via slow reinforcement learning**. Technical report, UC Berkeley and OpenAI, 2016.
-
 - [ ] **[12]** Li, Ke and Malik, Jitendra. **Learning to optimize**. International Conference on Learning Representations (ICLR), 2017.
 
 - [ ] **[13]** Edwards, Harrison and Storkey, Amos. **Towards a neural statistician**. International Conference on Learning Representations (ICLR), 2017.
@@ -81,70 +123,47 @@ Neural Computation, 4(1):131–139, 1992.
 
 - [ ] **[15]** Ravi, Sachin and Larochelle, Hugo. **Optimization as a model for few-shot learning**. In International Conference on Learning Representations (ICLR), 2017.
 
-- [ ] **[16]** Finn, C., Abbeel, P., & Levine, S. (2017). **Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**. arXiv preprint arXiv:1703.03400.
+- [ ] **[16]** Chen, Y., Hoffman, M. W., Colmenarejo, S. G., Denil, M., Lillicrap, T. P., & de Freitas, N. (2016). **Learning to Learn for Global Optimization of Black Box Functions**. arXiv preprint arXiv:1611.03824.
 
-- [ ] **[17]** Chen, Y., Hoffman, M. W., Colmenarejo, S. G., Denil, M., Lillicrap, T. P., & de Freitas, N. (2016). **Learning to Learn for Global Optimization of Black Box Functions**. arXiv preprint arXiv:1611.03824.
+- [ ] **[17]** Munkhdalai T, Yu H. **Meta Networks**. arXiv preprint arXiv:1703.00837, 2017.
 
-- [ ] **[18]** Munkhdalai T, Yu H. **Meta Networks**. arXiv preprint arXiv:1703.00837, 2017.
+- [ ] **[18]** Duan Y, Andrychowicz M, Stadie B, et al. **One-Shot Imitation Learning**. arXiv preprint arXiv:1703.07326, 2017.
 
-- [ ] **[19]** Duan Y, Andrychowicz M, Stadie B, et al. **One-Shot Imitation Learning**. arXiv preprint arXiv:1703.07326, 2017.
+- [ ] **[19]** Woodward M, Finn C. **Active One-shot Learning**. arXiv preprint arXiv:1702.06559, 2017.
 
-- [ ] **[20]** Woodward M, Finn C. **Active One-shot Learning**. arXiv preprint arXiv:1702.06559, 2017.
+- [ ] **[20]** Wichrowska O, Maheswaranathan N, Hoffman M W, et al. **Learned Optimizers that Scale and Generalize**. arXiv preprint arXiv:1703.04813, 2017.
 
-- [ ] **[21]** Wichrowska O, Maheswaranathan N, Hoffman M W, et al. **Learned Optimizers that Scale and Generalize**. arXiv preprint arXiv:1703.04813, 2017.
+- [ ] **[21]** Hariharan, Bharath, and Ross Girshick. **Low-shot visual object recognition** arXiv preprint arXiv:1606.02819 (2016).
 
-- [ ] **[22]** Hariharan, Bharath, and Ross Girshick. **Low-shot visual object recognition** arXiv preprint arXiv:1606.02819 (2016).
+- [ ] **[22]** Flood Sung, Zhang L, Xiang T, Hospedales T, et al. **Learning to Learn: Meta-Critic Networks for Sample Efficient Learning**. arXiv preprint arXiv:1706.09529, 2017.
 
-- [ ] **[23]** Wang J X, Kurth-Nelson Z, Tirumala D, et al. **Learning to reinforcement learn**. arXiv preprint arXiv:1611.05763, 2016.
+- [ ] **[23]** Li Z, Zhou F, Chen F, et al. **Meta-SGD: Learning to Learn Quickly for Few Shot Learning**. arXiv preprint arXiv:1707.09835, 2017.
 
-- [ ] **[24]** Flood Sung, Zhang L, Xiang T, Hospedales T, et al. **Learning to Learn: Meta-Critic Networks for Sample Efficient Learning**. arXiv preprint arXiv:1706.09529, 2017.
+- [ ] **[24]** Mishra N, Rohaninejad M, Chen X, et al. **Meta-Learning with Temporal Convolutions**. arXiv preprint arXiv:1707.03141, 2017.
 
-- [ ] **[25]** Li Z, Zhou F, Chen F, et al. **Meta-SGD: Learning to Learn Quickly for Few Shot Learning**. arXiv preprint arXiv:1707.09835, 2017.
+- [ ] **[25]** Finn C, Yu T, Zhang T, et al. **One-shot visual imitation learning via meta-learning**. arXiv preprint arXiv:1709.04905, 2017.
 
-- [ ] **[26]** Mishra N, Rohaninejad M, Chen X, et al. **Meta-Learning with Temporal Convolutions**. arXiv preprint arXiv:1707.03141, 2017.
+- [ ] **[26]** Flood Sung, Yongxin Yang, Zhang Li, Xiang T,Philip Torr, Hospedales T, et al **Learning to Compare: Relation Network for Few Shot Learning**. arXiv preprint arXiv:1711.06025, 2017.
 
-- [ ] **[27]** Frans K, Ho J, Chen X, et al. **Meta Learning Shared Hierarchies**. arXiv preprint arXiv:1710.09767, 2017.
-
-- [ ] **[28]** Finn C, Yu T, Zhang T, et al. **One-shot visual imitation learning via meta-learning**. arXiv preprint arXiv:1709.04905, 2017.
-
-- [ ] **[29]** Flood Sung, Yongxin Yang, Zhang Li, Xiang T,Philip Torr, Hospedales T, et al **Learning to Compare: Relation Network for Few Shot Learning**. arXiv preprint arXiv:1711.06025, 2017.
-
-- [ ] **[30]** Brenden M Lake, Ruslan Salakhutdinov, Joshua B Tenenbaum **Human-level concept learning through probabilistic program induction**. In Science, volume 350, pp. 1332-1338, 2015.
+- [ ] **[27]** Brenden M Lake, Ruslan Salakhutdinov, Joshua B Tenenbaum **Human-level concept learning through probabilistic program induction**. In Science, volume 350, pp. 1332-1338, 2015.
 
 - [ ] **[32]** Xu D, Nair S, Zhu Y, et al. **Neural task programming: Learning to generalize across hierarchical tasks**. arXiv preprint arXiv:1710.01813, 2017.
 
-- [ ] **[33]** Bertinetto, L., Henriques, J. F., Valmadre, J., Torr, P., & Vedaldi, A. (2016). **Learning feed-forward one-shot learners**. In Advances in Neural Information Processing Systems (pp. 523-531).
+- [ ] **[28]** Bertinetto, L., Henriques, J. F., Valmadre, J., Torr, P., & Vedaldi, A. (2016). **Learning feed-forward one-shot learners**. In Advances in Neural Information Processing Systems (pp. 523-531).
 
-- [ ] **[34]** Wang, Yu-Xiong, and Martial Hebert. **Learning to learn: Model regression networks for easy small sample learning.** European Conference on Computer Vision. Springer International Publishing, 2016.
+- [ ] **[29]** Wang, Yu-Xiong, and Martial Hebert. **Learning to learn: Model regression networks for easy small sample learning.** European Conference on Computer Vision. Springer International Publishing, 2016.
 
-- [ ] **[35]** Triantafillou, Eleni, Hugo Larochelle, Jake Snell, Josh Tenenbaum, Kevin Jordan Swersky, Mengye Ren, Richard Zemel, and Sachin Ravi. **Meta-Learning for Semi-Supervised Few-Shot Classification.** ICLR 2018.
+- [ ] **[30]** Triantafillou, Eleni, Hugo Larochelle, Jake Snell, Josh Tenenbaum, Kevin Jordan Swersky, Mengye Ren, Richard Zemel, and Sachin Ravi. **Meta-Learning for Semi-Supervised Few-Shot Classification.** ICLR 2018.
 
-- [ ] **[36]** Rabinowitz, Neil C., Frank Perbet, H. Francis Song, Chiyuan Zhang, S. M. Eslami, and Matthew Botvinick. **Machine Theory of Mind.** arXiv preprint arXiv:1802.07740 (2018).
+- [ ] **[31]** Rabinowitz, Neil C., Frank Perbet, H. Francis Song, Chiyuan Zhang, S. M. Eslami, and Matthew Botvinick. **Machine Theory of Mind.** arXiv preprint arXiv:1802.07740 (2018).
 
-- [ ] **[37]** Reed, Scott, Yutian Chen, Thomas Paine, Aäron van den Oord, S. M. Eslami, Danilo Rezende, Oriol Vinyals, and Nando de Freitas. **Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions.** arXiv preprint arXiv:1710.10304 (2017).
+- [ ] **[32]** Reed, Scott, Yutian Chen, Thomas Paine, Aäron van den Oord, S. M. Eslami, Danilo Rezende, Oriol Vinyals, and Nando de Freitas. **Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions.** arXiv preprint arXiv:1710.10304 (2017).
 
-- [ ] **[38]** Xu, Zhongwen, Hado van Hasselt, and David Silver. **Meta-Gradient Reinforcement Learning** arXiv preprint arXiv:1805.09801 (2018).
+- [ ] **[33]** Xu, Kelvin, Ellis Ratner, Anca Dragan, Sergey Levine, and Chelsea Finn. **Learning a Prior over Intent via Meta-Inverse Reinforcement Learning** arXiv preprint arXiv:1805.12573 (2018).
 
-- [ ] **[39]** Xu, Kelvin, Ellis Ratner, Anca Dragan, Sergey Levine, and Chelsea Finn. **Learning a Prior over Intent via Meta-Inverse Reinforcement Learning** arXiv preprint arXiv:1805.12573 (2018).
+- [ ] **[34]** Yoon, Sung Whan, Jun Seo, and Jaekyun Moon. **Meta Learner with Linear Nulling** arXiv preprint arXiv:1806.01010 (2018).
 
-- [ ] **[40]** Finn, Chelsea, Kelvin Xu, and Sergey Levine. **Probabilistic Model-Agnostic Meta-Learning** arXiv preprint arXiv:1806.02817 (2018).
+- [ ] **[35]** Luca Bertinetto, Joao F. Henriques, Philip Torr and Andrea Vedaldi. **Meta-learning with differentiable closed-form solvers** arXiv preprint arXiv:1805.08136 (2018).
 
-- [ ] **[41]** Gupta, Abhishek, Benjamin Eysenbach, Chelsea Finn, and Sergey Levine. **Unsupervised Meta-Learning for Reinforcement Learning** arXiv preprint arXiv:1806.04640(2018).
+- [ ] **[36]** Yoonho Lee, Seungjin Choi. **Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace.** ICML 2018.
 
-- [ ] **[42]** Yoon, Sung Whan, Jun Seo, and Jaekyun Moon. **Meta Learner with Linear Nulling** arXiv preprint arXiv:1806.01010 (2018).
-
-- [ ] **[43]** Kim, Taesup, Jaesik Yoon, Ousmane Dia, Sungwoong Kim, Yoshua Bengio, and Sungjin Ahn. **Bayesian Model-Agnostic Meta-Learning** arXiv preprint arXiv:1806.03836 (2018).
-
-- [ ] **[44]** Gupta, Abhishek, Russell Mendonca, YuXuan Liu, Pieter Abbeel, and Sergey Levine. **Meta-Reinforcement Learning of Structured Exploration Strategies** arXiv preprint arXiv:1802.07245 (2018).
-
-- [ ] **[45]** Clavera, Ignasi, Anusha Nagabandi, Ronald S. Fearing, Pieter Abbeel, Sergey Levine, and Chelsea Finn. **Learning to Adapt: Meta-Learning for Model-Based Control** arXiv preprint arXiv:1803.11347 (2018).
-
-- [ ] **[46]** Houthooft, Rein, Richard Y. Chen, Phillip Isola, Bradly C. Stadie, Filip Wolski, Jonathan Ho, and Pieter Abbeel. **Evolved policy gradients** arXiv preprint arXiv:1802.04821 (2018).
-
-- [ ] **[47]** Xu, Tianbing, Qiang Liu, Liang Zhao, Wei Xu, and Jian Peng. **Learning to Explore with Meta-Policy Gradient** arXiv preprint arXiv:1803.05044 (2018).
-
-- [ ] **[48]** Stadie, Bradly C., Ge Yang, Rein Houthooft, Xi Chen, Yan Duan, Yuhuai Wu, Pieter Abbeel, and Ilya Sutskever. **Some considerations on learning to explore via meta-reinforcement learning** arXiv preprint arXiv:1803.01118 (2018).
-
-- [ ] **[49]** Luca Bertinetto, Joao F. Henriques, Philip Torr and Andrea Vedaldi. **Meta-learning with differentiable closed-form solvers** arXiv preprint arXiv:1805.08136 (2018).
-
-- [ ] **[50]** Yoonho Lee, Seungjin Choi. **Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace.** ICML 2018.
