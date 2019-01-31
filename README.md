@@ -93,7 +93,7 @@ Neural Computation, 4(1):131–139, 1992.
 
 - [ ] **[21]** Thrun, Sebastian and Pratt, Lorien. **Learning to learn**. Springer Science & Business Media, 1998.
 
-## Recent Papers
+### Recent Papers
 
 - [ ] **[1]** Andrychowicz, Marcin, Denil, Misha, Gomez, Sergio, Hoffman, Matthew W, Pfau, David, Schaul, Tom, and de Freitas, Nando. **Learning to learn by gradient descent by gradient descent**. In Advances in Neural Information Processing Systems, pp. 3981–3989, 2016
 
