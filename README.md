@@ -11,30 +11,30 @@
 
 - [x] **[4]** Tristan Deleu, Yoshua Bengio. **The effects of negative adaptation in Model-Agnostic Meta-Learning**. arXiv preprint arXiv:1812.02159. (2018)
 
-- [ ] **[5]** Xu, Zhongwen, Hado van Hasselt, and David Silver. **Meta-Gradient Reinforcement Learning** arXiv preprint arXiv:1805.09801 (2018).
+- [x] **[5]** Xu, Zhongwen, Hado van Hasselt, and David Silver. **Meta-Gradient Reinforcement Learning** arXiv preprint arXiv:1805.09801 (2018).
 
 - [x] **[6]** Alex Nichol, Joshua Achiam, John SchulmanAlex Nichol, Joshua Achiam, John Schulman. **On First Order Meta-Learning Algorithms** arXiv preprint arXiv:1803.02999 (2018).
 
 - [x] **[7]** Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel. **A Simple Neural Attentive Learner** arXiv preprint at arXiv:1707.03141 (2018)
 
-- [ ] **[8]** Finn, Chelsea, Kelvin Xu, and Sergey Levine. **Probabilistic Model-Agnostic Meta-Learning** arXiv preprint arXiv:1806.02817 (2018).
+- [x] **[8]** Finn, Chelsea, Kelvin Xu, and Sergey Levine. **Probabilistic Model-Agnostic Meta-Learning** arXiv preprint arXiv:1806.02817 (2018).
 
-- [ ] **[9]** Kim, Taesup, Jaesik Yoon, Ousmane Dia, Sungwoong Kim, Yoshua Bengio, and Sungjin Ahn. **Bayesian Model-Agnostic Meta-Learning** arXiv preprint arXiv:1806.03836 (2018).
+- [x] **[9]** Kim, Taesup, Jaesik Yoon, Ousmane Dia, Sungwoong Kim, Yoshua Bengio, and Sungjin Ahn. **Bayesian Model-Agnostic Meta-Learning** arXiv preprint arXiv:1806.03836 (2018).
 
-- [ ] **[10]** Houthooft, Rein, Richard Y. Chen, Phillip Isola, Bradly C. Stadie, Filip Wolski, Jonathan Ho, and Pieter Abbeel. **Evolved policy gradients** arXiv preprint arXiv:1802.04821 (2018).
+- [x] **[10]** Houthooft, Rein, Richard Y. Chen, Phillip Isola, Bradly C. Stadie, Filip Wolski, Jonathan Ho, and Pieter Abbeel. **Evolved policy gradients** arXiv preprint arXiv:1802.04821 (2018).
 
 #### Section 2
-- [ ] **[1]** Marcin Andrychowicz, Filip Wolski, Alex Ray, Jonas Schneider, Rachel Fong, Peter Welinder, Bob McGrew, Josh Tobin, Pieter Abbeel, Wojciech Zaremba. **Hindsight Experience Replay**. arXiv preprint arXiv:1707.01495, 2017.
+- [x] **[1]** Marcin Andrychowicz, Filip Wolski, Alex Ray, Jonas Schneider, Rachel Fong, Peter Welinder, Bob McGrew, Josh Tobin, Pieter Abbeel, Wojciech Zaremba. **Hindsight Experience Replay**. arXiv preprint arXiv:1707.01495, 2017.
 
 - [x] **[2]** Frans K, Ho J, Chen X, et al. **Meta Learning Shared Hierarchies**. arXiv preprint arXiv:1710.09767 (2017)
 
-- [ ] **[3]** Anusha Nagabandi, Ignasi Clavera, Simin Liu, Ronald S. Fearing, Pieter Abbeel, Sergey Levine, Chelsea Finn. **Learning to Adapt in Dynamic, Real-World Environments Through Meta-Reinforcement Learning** arXiv preprint arXiv:1803.11347 (2018).
+- [x] **[3]** Anusha Nagabandi, Ignasi Clavera, Simin Liu, Ronald S. Fearing, Pieter Abbeel, Sergey Levine, Chelsea Finn. **Learning to Adapt in Dynamic, Real-World Environments Through Meta-Reinforcement Learning** arXiv preprint arXiv:1803.11347 (2018).
 
-- [ ] **[4]** Clavera, Ignasi, Anusha Nagabandi, Ronald S. Fearing, Pieter Abbeel, Sergey Levine, and Chelsea Finn. **Learning to Adapt: Meta-Learning for Model-Based Control** arXiv preprint arXiv:1803.11347 (2018).
+- [x] **[4]** Clavera, Ignasi, Anusha Nagabandi, Ronald S. Fearing, Pieter Abbeel, Sergey Levine, and Chelsea Finn. **Learning to Adapt: Meta-Learning for Model-Based Control** arXiv preprint arXiv:1803.11347 (2018).
 
-- [ ] **[5]** Gupta, Abhishek, Benjamin Eysenbach, Chelsea Finn, and Sergey Levine. **Unsupervised Meta-Learning for Reinforcement Learning** arXiv preprint arXiv:1806.04640 (2018).
+- [x] **[5]** Gupta, Abhishek, Benjamin Eysenbach, Chelsea Finn, and Sergey Levine. **Unsupervised Meta-Learning for Reinforcement Learning** arXiv preprint arXiv:1806.04640 (2018).
 
-- [ ] **[6]** Benjamin Eysenbach, Abhishek Gupta, Julian Ibarz, Sergey Levine. **Diversity is All You Need: Learning Skills without a Reward Function** arXiv preprint arXiv:1802.06070 (2018).
+- [x] **[6]** Benjamin Eysenbach, Abhishek Gupta, Julian Ibarz, Sergey Levine. **Diversity is All You Need: Learning Skills without a Reward Function** arXiv preprint arXiv:1802.06070 (2018).
 
 #### Section 3
 
@@ -95,9 +95,9 @@ Neural Computation, 4(1):131–139, 1992.
 
 ### Recent Papers
 
-- [ ] **[1]** Andrychowicz, Marcin, Denil, Misha, Gomez, Sergio, Hoffman, Matthew W, Pfau, David, Schaul, Tom, and de Freitas, Nando. **Learning to learn by gradient descent by gradient descent**. In Advances in Neural Information Processing Systems, pp. 3981–3989, 2016
+- [x] **[1]** Andrychowicz, Marcin, Denil, Misha, Gomez, Sergio, Hoffman, Matthew W, Pfau, David, Schaul, Tom, and de Freitas, Nando. **Learning to learn by gradient descent by gradient descent**. In Advances in Neural Information Processing Systems, pp. 3981–3989, 2016
 
-- [ ] **[2]** Ba, Jimmy, Hinton, Geoffrey E, Mnih, Volodymyr, Leibo, Joel Z, and Ionescu, Catalin. **Using fast weights to attend to the recent past**. In Advances In Neural Information Processing Systems, pp. 4331–4339, 2016
+- [x] **[2]** Ba, Jimmy, Hinton, Geoffrey E, Mnih, Volodymyr, Leibo, Joel Z, and Ionescu, Catalin. **Using fast weights to attend to the recent past**. In Advances In Neural Information Processing Systems, pp. 4331–4339, 2016
 
 - [ ] **[3]** David Ha, Andrew Dai and Le, Quoc V. **Hypernetworks**. In ICLR 2017, 2017.
 
@@ -105,21 +105,21 @@ Neural Computation, 4(1):131–139, 1992.
 
 - [ ] **[5]** Lake, Brenden M, Salakhutdinov, Ruslan R, and Tenenbaum, Josh. **One-shot learning by inverting a compositional causal process**. In Advances in neural information processing systems, pp. 2526–2534, 2013.
 
-- [ ] **[6]** Santoro, Adam, Bartunov, Sergey, Botvinick, Matthew, Wierstra, Daan, and Lillicrap, Timothy. **Meta-learning with memory-augmented neural networks**. In Proceedings of The 33rd International Conference on Machine Learning, pp. 1842–1850, 2016.
+- [x] **[6]** Santoro, Adam, Bartunov, Sergey, Botvinick, Matthew, Wierstra, Daan, and Lillicrap, Timothy. **Meta-learning with memory-augmented neural networks**. In Proceedings of The 33rd International Conference on Machine Learning, pp. 1842–1850, 2016.
 
 - [ ] **[7]** Vinyals, Oriol, Blundell, Charles, Lillicrap, Tim, Wierstra, Daan, et al. **Matching networks for one shot learning**. In Advances in Neural Information Processing Systems, pp. 3630–3638, 2016.
 
-- [ ] **[8]** Kaiser, Lukasz, Nachum, Ofir, Roy, Aurko, and Bengio, Samy. **Learning to remember rare events**. In ICLR 2017, 2017.
+- [x] **[8]** Kaiser, Lukasz, Nachum, Ofir, Roy, Aurko, and Bengio, Samy. **Learning to remember rare events**. In ICLR 2017, 2017.
 
 - [ ] **[9]** P. Mirowski, R. Pascanu, F. Viola, H. Soyer, A. Ballard, A. Banino, M. Denil, R. Goroshin, L. Sifre, K. Kavukcuoglu, D. Kumaran, and R. Hadsell. **Learning to navigate in complex environments**. Techni- cal report, DeepMind, 2016.
 
-- [ ] **[10]** B. Zoph and Q. V. Le. **Neural architecture search with reinforcement learning**. Technical report, submitted to ICLR 2017, 2016.
+- [x] **[10]** B. Zoph and Q. V. Le. **Neural architecture search with reinforcement learning**. Technical report, submitted to ICLR 2017, 2016.
 
-- [ ] **[12]** Li, Ke and Malik, Jitendra. **Learning to optimize**. International Conference on Learning Representations (ICLR), 2017.
+- [x] **[12]** Li, Ke and Malik, Jitendra. **Learning to optimize**. International Conference on Learning Representations (ICLR), 2017.
 
 - [ ] **[13]** Edwards, Harrison and Storkey, Amos. **Towards a neural statistician**. International Conference on Learning Representations (ICLR), 2017.
 
-- [ ] **[14]** Parisotto, Emilio, Ba, Jimmy Lei, and Salakhutdinov, Ruslan. **Actor-mimic: Deep multitask and transfer reinforcement learning**. International Conference on Learning Representations (ICLR), 2016.
+- [x] **[14]** Parisotto, Emilio, Ba, Jimmy Lei, and Salakhutdinov, Ruslan. **Actor-mimic: Deep multitask and transfer reinforcement learning**. International Conference on Learning Representations (ICLR), 2016.
 
 - [ ] **[15]** Ravi, Sachin and Larochelle, Hugo. **Optimization as a model for few-shot learning**. In International Conference on Learning Representations (ICLR), 2017.
 
@@ -137,9 +137,9 @@ Neural Computation, 4(1):131–139, 1992.
 
 - [ ] **[22]** Flood Sung, Zhang L, Xiang T, Hospedales T, et al. **Learning to Learn: Meta-Critic Networks for Sample Efficient Learning**. arXiv preprint arXiv:1706.09529, 2017.
 
-- [ ] **[23]** Li Z, Zhou F, Chen F, et al. **Meta-SGD: Learning to Learn Quickly for Few Shot Learning**. arXiv preprint arXiv:1707.09835, 2017.
+- [x] **[23]** Li Z, Zhou F, Chen F, et al. **Meta-SGD: Learning to Learn Quickly for Few Shot Learning**. arXiv preprint arXiv:1707.09835, 2017.
 
-- [ ] **[24]** Mishra N, Rohaninejad M, Chen X, et al. **Meta-Learning with Temporal Convolutions**. arXiv preprint arXiv:1707.03141, 2017.
+- [x] **[24]** Mishra N, Rohaninejad M, Chen X, et al. **Meta-Learning with Temporal Convolutions**. arXiv preprint arXiv:1707.03141, 2017.
 
 - [ ] **[25]** Finn C, Yu T, Zhang T, et al. **One-shot visual imitation learning via meta-learning**. arXiv preprint arXiv:1709.04905, 2017.
 
@@ -147,7 +147,7 @@ Neural Computation, 4(1):131–139, 1992.
 
 - [ ] **[27]** Brenden M Lake, Ruslan Salakhutdinov, Joshua B Tenenbaum **Human-level concept learning through probabilistic program induction**. In Science, volume 350, pp. 1332-1338, 2015.
 
-- [ ] **[32]** Xu D, Nair S, Zhu Y, et al. **Neural task programming: Learning to generalize across hierarchical tasks**. arXiv preprint arXiv:1710.01813, 2017.
+- [x] **[32]** Xu D, Nair S, Zhu Y, et al. **Neural task programming: Learning to generalize across hierarchical tasks**. arXiv preprint arXiv:1710.01813, 2017.
 
 - [ ] **[28]** Bertinetto, L., Henriques, J. F., Valmadre, J., Torr, P., & Vedaldi, A. (2016). **Learning feed-forward one-shot learners**. In Advances in Neural Information Processing Systems (pp. 523-531).
 
@@ -155,7 +155,7 @@ Neural Computation, 4(1):131–139, 1992.
 
 - [ ] **[30]** Triantafillou, Eleni, Hugo Larochelle, Jake Snell, Josh Tenenbaum, Kevin Jordan Swersky, Mengye Ren, Richard Zemel, and Sachin Ravi. **Meta-Learning for Semi-Supervised Few-Shot Classification.** ICLR 2018.
 
-- [ ] **[31]** Rabinowitz, Neil C., Frank Perbet, H. Francis Song, Chiyuan Zhang, S. M. Eslami, and Matthew Botvinick. **Machine Theory of Mind.** arXiv preprint arXiv:1802.07740 (2018).
+- [x] **[31]** Rabinowitz, Neil C., Frank Perbet, H. Francis Song, Chiyuan Zhang, S. M. Eslami, and Matthew Botvinick. **Machine Theory of Mind.** arXiv preprint arXiv:1802.07740 (2018).
 
 - [ ] **[32]** Reed, Scott, Yutian Chen, Thomas Paine, Aäron van den Oord, S. M. Eslami, Danilo Rezende, Oriol Vinyals, and Nando de Freitas. **Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions.** arXiv preprint arXiv:1710.10304 (2017).
 
@@ -163,7 +163,7 @@ Neural Computation, 4(1):131–139, 1992.
 
 - [ ] **[34]** Yoon, Sung Whan, Jun Seo, and Jaekyun Moon. **Meta Learner with Linear Nulling** arXiv preprint arXiv:1806.01010 (2018).
 
-- [ ] **[35]** Luca Bertinetto, Joao F. Henriques, Philip Torr and Andrea Vedaldi. **Meta-learning with differentiable closed-form solvers** arXiv preprint arXiv:1805.08136 (2018).
+- [x] **[35]** Luca Bertinetto, Joao F. Henriques, Philip Torr and Andrea Vedaldi. **Meta-learning with differentiable closed-form solvers** arXiv preprint arXiv:1805.08136 (2018).
 
-- [ ] **[36]** Yoonho Lee, Seungjin Choi. **Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace.** ICML 2018.
+- [x] **[36]** Yoonho Lee, Seungjin Choi. **Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace.** ICML 2018.
 
